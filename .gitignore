@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+node_modules/
+build/
+temp/
+
+tmp/*
+!tmp/.gitkeep
+# faz com que os aquivos de dentro da pasta tmp sejam ignotados, menos a pasta
